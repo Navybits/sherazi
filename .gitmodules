@@ -1,0 +1,8 @@
+[submodule "rest_api"]
+	path = rest_api
+	url = git@github.com:hstabbal/rest_api.git
+	branch = 15.0
+[submodule "nv_pr_sherazi"]
+	path = nv_pr_sherazi
+	url = git@github.com:hstabbal/nv_pr_sherazi.git
+	branch = 15.0
